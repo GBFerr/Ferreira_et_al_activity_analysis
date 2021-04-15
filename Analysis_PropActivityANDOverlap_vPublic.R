@@ -2,8 +2,8 @@
 
 # Code for estimating proportion of time active and overlap in daily activity patterns
 
-# Paper: Ferreira et al, Limited effect of anthropogenic pressure on Cerrado mammals' 
-# activity patterns in areas under contrasting levels of protection
+# Paper: Ferreira et al, LLimited temporal response of Cerrado mammals to anthropogenic pressure 
+# in areas under contrasting levels of protection
 
 # Figs 2 and 3
 
